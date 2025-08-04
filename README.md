@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repositorio del Modulo. #2, Del PreCurso de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde GitHud a mi computadora.
